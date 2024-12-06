@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iot_button.h": "c",
+        "esp_flash.h": "c",
+        "button_matrix.h": "c"
+    }
+}
